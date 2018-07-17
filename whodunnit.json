@@ -315,7 +315,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "local_file": "/Users/danielprikazsky/Downloads/Scheming Weasel slower.mp3",
+                "local_file": "./../whodunnitshow/music/Scheming Weasel slower.mp3",
                 "looping": true
             },
             "sync": 0,
