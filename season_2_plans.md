@@ -1,17 +1,31 @@
 #Audience Engagement
+
 ##Instagram
+
 Engage with Influencers in our Space
+
 Broadcast Sketch Content
+
 Instagram TV?
+
 Participation of Winners and Losers
+
 Link to Twitter
+
 ##Twitter
+
 Engage with Influencers in our Space
+
 Board Game Geek Tweets many times per day, it looks like the respond
+
 Tweet out about episodes and standings
+
 ##Audience Bracket
+
 Different ways to participate: bet on specific players or types of victory
+
 ##Home Page?
+
 Place where fans can check in and keep track of brackets and such
 
 #Technical Improvements
