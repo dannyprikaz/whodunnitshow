@@ -1,6 +1,6 @@
-#Audience Engagement
+# Audience Engagement
 
-##Instagram
+## Instagram
 
 Engage with Influencers in our Space
 
@@ -12,7 +12,7 @@ Participation of Winners and Losers
 
 Link to Twitter
 
-##Twitter
+## Twitter
 
 Engage with Influencers in our Space
 
@@ -20,16 +20,16 @@ Board Game Geek Tweets many times per day, it looks like the respond
 
 Tweet out about episodes and standings
 
-##Audience Bracket
+## Audience Bracket
 
 Different ways to participate: bet on specific players or types of victory
 
-##Home Page?
+## Home Page?
 
 Place where fans can check in and keep track of brackets and such
 
-#Technical Improvements
-##HTML Based Everything
+# Technical Improvements
+## HTML Based Everything
 Minimum Viable Product -> Let's recreate what we have with DRY, modular code
 ##Server Side Stuff
 What model should we use for the back end?
